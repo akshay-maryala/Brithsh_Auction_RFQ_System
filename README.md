@@ -160,10 +160,12 @@ npm run dev
 ## 🖼️ UI Previews
 
 ### Dashboard View
-![Dashboard View](assets/dashboard.png)
+<img width="1919" height="912" alt="dash1" src="https://github.com/user-attachments/assets/2f33d456-7aeb-4aaa-955d-41f82f3cdf06" />
+
 
 ### Auction Details & Real-Time Bidding
-![Auction Details](assets/auction.png)
+<img width="1919" height="1079" alt="auction" src="https://github.com/user-attachments/assets/ae4d5d47-f348-4e76-8902-7ffe9e834ca6" />
+
 
 ---
 
